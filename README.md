@@ -42,7 +42,7 @@ I am an active contributor to the **Go** ecosystem.
 * **Software Engineer Intern @ Shopify**
     * Catalogue Team (ML Infra)
 * **Software Engineer Intern @ Crypto4A**
-    * Platform Team (Backend)
+    * Platform Team (Backend Platform)
 * **Software Engineer Intern @ HubSpot**
     * Service Maturity Team (Backend Infra)
 * **Software Engineer Intern @ Ericsson**
