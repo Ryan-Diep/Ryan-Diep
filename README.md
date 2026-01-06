@@ -40,7 +40,7 @@ I am an active contributor to the **Go** ecosystem.
 ## 💼 Experience Overview
 
 * **Software Engineer Intern @ Shopify**
-    * Catalogue Team (ML Infra)
+    * Catalog Team (ML and Distributed Systems)
 * **Software Engineer Intern @ Crypto4A**
     * Platform Team (Backend Platform)
 * **Software Engineer Intern @ HubSpot**
